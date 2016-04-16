@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
-datePublished: '2016-04-16T19:43:04.250Z'
-dateModified: '2016-04-16T19:42:54.722Z'
+datePublished: '2016-04-16T19:44:36.746Z'
+dateModified: '2016-04-16T19:43:13.529Z'
 title: Österreichs führende Berater
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
