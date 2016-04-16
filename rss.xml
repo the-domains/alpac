@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ALPAC]]></title>
+        <description><![CDATA[ALPAC]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 16 Apr 2016 19:01:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Impressum]]></title>
+            <description><![CDATA[<article><h1>Impressum</h1><p> Kontakt: Andreas Kovar, Austrian Lobbying & Public Affairs Council - ALPAC, M: +43 (664) 8494011, T.: +43 (1) 5229220, E: office@alpac.at</p></article>]]></description>
+            <link>undefinedimpressum/index.html</link>
+            <guid isPermaLink="false">0a14ed5b-a54b-4996-b1f1-9ca5a0ba289c</guid>
+            <pubDate>Sat, 16 Apr 2016 19:01:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
