@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-16T19:57:40.295Z'
-dateModified: '2016-04-16T19:57:37.672Z'
+datePublished: '2016-04-16T19:59:15.498Z'
+dateModified: '2016-04-16T19:58:41.980Z'
 title: 'ALPAC - Austrian Lobbying & Public Affairs Council'
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
