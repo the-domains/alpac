@@ -7,9 +7,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
-datePublished: '2016-04-16T19:50:40.534Z'
-dateModified: '2016-04-16T19:50:39.759Z'
-title: 'ALPAC - Austrian Lobbying & Public Affairs Council'
+datePublished: '2016-04-16T19:52:21.206Z'
+dateModified: '2016-04-16T19:52:10.402Z'
+title: 'ALPAC Austrian Lobbying & Public Affairs Council'
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
 published: true
