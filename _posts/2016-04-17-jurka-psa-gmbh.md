@@ -5,12 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: |+
-
-
-
-datePublished: '2016-04-17T14:53:55.303Z'
-dateModified: '2016-04-17T14:53:37.744Z'
+description: Rosenstraße 2
+datePublished: '2016-04-17T14:57:58.517Z'
+dateModified: '2016-04-17T14:57:26.037Z'
 title: Jurka P.S.A. GmbH
 author: []
 sourcePath: _posts/2016-04-17-jurka-psa-gmbh.md
@@ -26,9 +23,9 @@ _type: Article
 
 ---
 # Jurka P.S.A. GmbH
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59cb6437-655a-45fe-83a5-fb3d8786efc5.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2bd8b4fe7361e74cff6148f3ddd34483/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F59cb6437-655a-45fe-83a5-fb3d8786efc5.jpg&width=400)
 
-Rosenstraße 2
+Rosengasse 
 
 D-10178 Berlin
 
