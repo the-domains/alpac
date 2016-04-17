@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Kovar & Partners, Dorotheergasse 7,
   A-1010 Wien, T: +43 1 5229220-0, F: +43 1 5229220-22, office@publicaffairs.cc, www.publicaffairs.cc
-datePublished: '2016-04-17T18:03:50.724Z'
-dateModified: '2016-04-17T18:03:48.297Z'
+datePublished: '2016-04-17T18:07:44.657Z'
+dateModified: '2016-04-17T18:07:41.029Z'
 title: 'Kovar & Partners GmbH'
 author: []
 sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
@@ -39,7 +39,7 @@ _MUELLER Consulting & Partner_, Gemeindestraße
 _eacon - European Affairs Consulting Group_, Avenue
 des Arts 39, B-1040 Brüssel, T: +32 2 5027771
 
-## Making politics work
+Making politics work
 
 Kovar & Partners arbeitet mit einem Team erfahrener Berater. Alle
 unsere Consultants haben mindestens zehn Jahre aktives Berufsleben am Puls der
