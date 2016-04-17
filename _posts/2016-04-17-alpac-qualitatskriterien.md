@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Eine Mitgliedschaft bei ALPAC
   setzt einschlägige, mehrjährige Berufserfahrung voraus.
-datePublished: '2016-04-17T14:13:46.527Z'
-dateModified: '2016-04-17T14:13:36.404Z'
+datePublished: '2016-04-17T14:36:46.784Z'
+dateModified: '2016-04-17T14:13:53.196Z'
 title: "ALPAC - Qualitätskriterien\_"
 author: []
 sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
