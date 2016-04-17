@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Avenue des Arts 39
-datePublished: '2016-04-17T15:12:19.349Z'
-dateModified: '2016-04-17T15:12:08.341Z'
-title: ' '
+description: B - 1040 Brussels
+datePublished: '2016-04-17T15:17:39.925Z'
+dateModified: '2016-04-17T15:17:13.948Z'
+title: eacon - European Affairs Consulting Group s.p.r.l.
 author: []
 sourcePath: _posts/2016-04-17-avenue-des-arts-39.md
 published: true
@@ -22,11 +22,8 @@ url: avenue-des-arts-39/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1364f5a6-5cc6-414c-bf55-afd7150ac2e9.jpg)
-
-# 
-
 # eacon - European Affairs Consulting Group s.p.r.l.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2acdc172-5108-445d-bb74-262036c9c2c5.jpg)
 
 Avenue des Arts 39
 
