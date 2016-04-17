@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Rosengasse 2,\_D-10178 Berlin"
-datePublished: '2016-04-17T17:51:09.332Z'
-dateModified: '2016-04-17T17:50:45.195Z'
+datePublished: '2016-04-17T18:05:49.050Z'
+dateModified: '2016-04-17T18:05:47.153Z'
 title: Jurka P.S.A. GmbH
 author: []
 sourcePath: _posts/2016-04-17-jurka-psa-gmbh.md
@@ -37,6 +37,15 @@ Tel.: +43/1/596 70 20, Fax: +43/1/596 70 66
 
 Tel.: +33/6/33498697
 
-[www.karljurka.com][0]
+www.karljurka.com
 
-[0]: http://www.karljurka.com/
+## Wir sind Ihre Übersetzer zwischen
+Wirtschaft und Politik
+
+Wir verstehen uns als Übersetzer zwischen
+den Entscheidungsträgern in Politik und Wirtschaft. Wir erklären den Menschen
+in der Wirtschaft in der Sprache der Wirtschaft politische Vorgänge. Wir
+erklären den Menschen in der Politik in der Sprache der Politik wirtschaftliche
+Vorgänge. Mit unserem europaweiten Netzwerk und mit einer für unsere Klienten
+maßgeschneiderten Strategie bringen wir Ihre Geschäftsinteressen auf die
+politische Ebene. Unser Erfolg spiegelt sich im Erfolg unserer Klienten wider.
