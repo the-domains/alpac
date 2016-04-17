@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Avenue des Arts 39
-datePublished: '2016-04-17T17:49:53.001Z'
-dateModified: '2016-04-17T17:49:42.995Z'
+datePublished: '2016-04-17T17:51:01.713Z'
+dateModified: '2016-04-17T17:51:00.373Z'
 title: eacon - European Affairs Consulting Group s.p.r.l.
 author: []
 sourcePath: _posts/2016-04-17-avenue-des-arts-39.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # eacon - European Affairs Consulting Group s.p.r.l.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2acdc172-5108-445d-bb74-262036c9c2c5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d30ec23136cb4ba8f1395fdf977630219566f1a.jpg)
 
 Avenue des Arts 39
 
