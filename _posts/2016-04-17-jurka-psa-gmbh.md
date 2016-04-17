@@ -9,25 +9,24 @@ description: |+
 
 
 
-datePublished: '2016-04-17T14:52:44.405Z'
-dateModified: '2016-04-17T14:52:30.504Z'
+datePublished: '2016-04-17T14:53:55.303Z'
+dateModified: '2016-04-17T14:53:37.744Z'
 title: Jurka P.S.A. GmbH
 author: []
+sourcePath: _posts/2016-04-17-jurka-psa-gmbh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-jurka-psa-gmbh.md
-published: true
 url: jurka-psa-gmbh/index.html
 _type: Article
 
 ---
-# 
-
 # Jurka P.S.A. GmbH
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59cb6437-655a-45fe-83a5-fb3d8786efc5.jpg)
 
 Rosenstraße 2
 
