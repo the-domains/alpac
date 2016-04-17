@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Kovar & Partners GmbH'
-datePublished: '2016-04-17T15:09:24.532Z'
-dateModified: '2016-04-17T15:09:08.476Z'
-title: ''
+description: ''
+datePublished: '2016-04-17T15:12:57.942Z'
+dateModified: '2016-04-17T15:12:44.588Z'
+title: 'Kovar & Partners GmbH'
 author: []
+sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
-published: true
 url: kovar-and-partners-gmbh/index.html
 _type: Article
 
 ---
-Kovar & Partners GmbH
+# Kovar & Partners GmbH
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52c0b781-c978-47ed-aac5-04c4f6531a4e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a66cf74a-fead-4fcc-bd6d-dff588808851.jpg)
 
