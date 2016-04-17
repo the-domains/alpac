@@ -6,24 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T18:17:16.765Z'
-dateModified: '2016-04-17T18:16:50.978Z'
+datePublished: '2016-04-17T18:19:13.094Z'
+dateModified: '2016-04-17T18:17:35.779Z'
 title: Unique Public Relations GmbH
 author: []
+sourcePath: _posts/2016-04-17-unique-public-relations-gmbh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-unique-public-relations-gmbh.md
-published: true
 url: unique-public-relations-gmbh/index.html
 _type: Article
 
 ---
 # Unique Public Relations GmbH
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7291ae62-f988-48ab-9e64-84e00934587a.jpg)
 
 Forum Schönbrunn, Schönbrunner Straße 297, Stiege
