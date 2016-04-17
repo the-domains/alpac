@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Rosenstraße 2
-datePublished: '2016-04-17T14:57:58.517Z'
-dateModified: '2016-04-17T14:57:26.037Z'
+description: "Rosengasse\_"
+datePublished: '2016-04-17T15:00:33.966Z'
+dateModified: '2016-04-17T15:00:29.136Z'
 title: Jurka P.S.A. GmbH
 author: []
 sourcePath: _posts/2016-04-17-jurka-psa-gmbh.md
@@ -25,25 +25,15 @@ _type: Article
 # Jurka P.S.A. GmbH
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2bd8b4fe7361e74cff6148f3ddd34483/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F59cb6437-655a-45fe-83a5-fb3d8786efc5.jpg&width=400)
 
-Rosengasse 
+Rosengasse 2, D-10178 Berlin
 
-D-10178 Berlin
+Tel.: +49/30/243 102 565, Fax: +49/30/243 102 22
 
-Tel.: +49/30/243 102 565
+Mariahilfer Straße 103/6, A-1060 Wien
 
-Fax: +49/30/243 102 22
+Tel.: +43/1/596 70 20, Fax: +43/1/596 70 66
 
-Mariahilfer Straße 103/65
-
-A-1060 Wien
-
-Tel.: +43/1/596 70 20
-
-Fax: +43/1/596 70 66
-
-115, rue Saint Dominique
-
-F-75007 Paris
+115, rue Saint Dominique, F-75007 Paris
 
 Tel.: +33/6/33498697
 
