@@ -15,8 +15,8 @@ description: >-
   Affairs Council (ALPAC) in den Mittelpunkt. Alle Mitglieder von ALPAC
 
   verpflichten sich diese Richtlinie in ihren Unternehmen umzusetzen.
-datePublished: '2016-04-17T14:13:08.493Z'
-dateModified: '2016-04-17T14:13:02.851Z'
+datePublished: '2016-04-17T14:37:02.516Z'
+dateModified: '2016-04-17T14:14:01.654Z'
 title: |
   Compliance Management für Beratungsunternehmen
 author: []
