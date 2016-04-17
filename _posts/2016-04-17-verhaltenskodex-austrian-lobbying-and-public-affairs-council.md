@@ -5,9 +5,11 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-17T13:58:29.460Z'
-dateModified: '2016-04-17T13:58:27.041Z'
+description: |-
+  (Verhaltenskodex im Sinne des Lobbying- und
+  Interessensvertretungs-Transparenz-Gesetz - LobbyG BGBl I 2012/64 § 7)
+datePublished: '2016-04-17T14:06:45.769Z'
+dateModified: '2016-04-17T14:06:43.962Z'
 title: |-
   Verhaltenskodex Austrian Lobbying & Public Affairs
   Council
@@ -133,3 +135,16 @@ ALPAC-Mitglieder achten bei der Ausübung
 ihrer beruflichen Beratungs- und Vertretungstätigkeit auf die strikte Trennung
 zwischen ihrer beruflichen Tätigkeit einerseits und weiteren politischen
 Ämtern, Mandaten und Funktionen andererseits.
+
+## Keine Berufsschädigung
+
+Jedes ALPAC-Mitglied vermeidet
+grundsätzlich Aktivitäten, die der Gemeinschaft der Politikberater, der
+Politikberatung an sich oder dem öffentlichen Ansehen der ALPAC schaden
+könnten.
+
+Die Mitglieder der ALPAC haben mit ihrem
+Eintritt diesen Verhaltenskodex anerkannt und werden sich für dessen
+Einhaltung, Verbreitung und Weiterentwicklung einsetzen. 
+
+_Wien, Juni 2004_
