@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Oppolzergasse 6, A-1010 Wien'
-datePublished: '2016-04-17T17:55:48.817Z'
-dateModified: '2016-04-17T17:54:56.874Z'
+datePublished: '2016-04-17T17:56:35.120Z'
+dateModified: '2016-04-17T17:56:32.928Z'
 title: 'Krammer Consultants Politics & Media GmbH'
 author: []
+sourcePath: _posts/2016-04-17-krammer-consultants-politics-and-media-gmbh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-krammer-consultants-politics-and-media-gmbh.md
-published: true
 url: krammer-consultants-politics-and-media-gmbh/index.html
 _type: Article
 
@@ -32,3 +32,5 @@ T: +43 (1) 533 15 15, F: +43 (1) 533 15 15-20
 office@krammer-consultants.com
 
 www.krammer-consultants.com
+
+## Berater in Politik und Medien.
