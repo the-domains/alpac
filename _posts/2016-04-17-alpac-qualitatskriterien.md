@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Eine Mitgliedschaft bei ALPAC
   setzt einschlägige, mehrjährige Berufserfahrung voraus.
-datePublished: '2016-04-17T14:02:44.439Z'
-dateModified: '2016-04-17T14:02:41.405Z'
+datePublished: '2016-04-17T14:13:46.527Z'
+dateModified: '2016-04-17T14:13:36.404Z'
 title: "ALPAC - Qualitätskriterien\_"
 author: []
 sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
@@ -33,7 +33,7 @@ setzt einschlägige, mehrjährige Berufserfahrung voraus.
 
 Die Mitglieder des ALPAC
 bekennen sich zur Einhaltung des ALPAC-Verhaltenskodex. Die Umsetzung der
-ALPAC-Compliance Richtlinie für die Public Affairs Beratung ist für
+[ALPAC-Compliance Richtlinie][0] für die Public Affairs Beratung ist für
 ALPAC-Mitglieder verpflichtend. 
 
 Für den Kunden sichert dies
@@ -68,3 +68,5 @@ Beratern, Gesellschafterinnen und Gesellschaftern von Beratungsunternehmen
 offen, die in den Bereichen Lobbying und Public Affairs und anderen Formen der
 Beratung über Politik hauptberuflich tätig sind. ALPAC-Mitglied werden Sie auf
 Antrag durch Zustimmung der Generalversammlung.
+
+[0]: http://www.alpac.at/Freigegebene%20Dokumente/CRL_ALPAC_20140717.pdf
