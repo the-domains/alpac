@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Kovar & Partners, Dorotheergasse 7,
   A-1010 Wien, T: +43 1 5229220-0, F: +43 1 5229220-22, office@publicaffairs.cc, www.publicaffairs.cc
-datePublished: '2016-04-17T15:34:53.041Z'
-dateModified: '2016-04-17T15:34:34.631Z'
+datePublished: '2016-04-17T15:35:17.222Z'
+dateModified: '2016-04-17T15:35:01.833Z'
 title: 'Kovar & Partners GmbH'
 author: []
 sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
