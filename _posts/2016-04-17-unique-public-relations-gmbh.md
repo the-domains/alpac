@@ -5,9 +5,11 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-17T18:19:13.094Z'
-dateModified: '2016-04-17T18:17:35.779Z'
+description: |-
+  Forum Schönbrunn, Schönbrunner Straße 297, Stiege
+  1 / Stock 3, A-1120 Wien
+datePublished: '2016-04-17T18:20:06.450Z'
+dateModified: '2016-04-17T18:20:04.655Z'
 title: Unique Public Relations GmbH
 author: []
 sourcePath: _posts/2016-04-17-unique-public-relations-gmbh.md
