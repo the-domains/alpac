@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Rosengasse 2,\_D-10178 Berlin"
-datePublished: '2016-04-17T17:50:36.129Z'
-dateModified: '2016-04-17T15:35:41.414Z'
+datePublished: '2016-04-17T17:51:09.332Z'
+dateModified: '2016-04-17T17:50:45.195Z'
 title: Jurka P.S.A. GmbH
 author: []
 sourcePath: _posts/2016-04-17-jurka-psa-gmbh.md
