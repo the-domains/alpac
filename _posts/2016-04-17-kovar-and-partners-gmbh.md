@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Kovar & Partners, Dorotheergasse 7,
   A-1010 Wien, T: +43 1 5229220-0, F: +43 1 5229220-22, office@publicaffairs.cc, www.publicaffairs.cc
-datePublished: '2016-04-17T18:03:12.603Z'
-dateModified: '2016-04-17T18:03:08.387Z'
+datePublished: '2016-04-17T18:03:50.724Z'
+dateModified: '2016-04-17T18:03:48.297Z'
 title: 'Kovar & Partners GmbH'
 author: []
 sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
@@ -28,7 +28,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2987f55b-57b5-4ad4-b051-65c3cd48bc57.jpg)
 
 _Kovar & Partners_, Dorotheergasse 7,
-A-1010 Wien, T: +43 1 5229220-0, F: +43 1 5229220-22, office@publicaffairs.cc, [www.publicaffairs.cc][0]
+A-1010 Wien, T: +43 1 5229220-0, F: +43 1 5229220-22, office@publicaffairs.cc, www.publicaffairs.cc
 
 _KovarHuss_, Unter den Linden 21,
 D-10117 Berlin, T: +49 30 7677183-0
@@ -46,5 +46,3 @@ unsere Consultants haben mindestens zehn Jahre aktives Berufsleben am Puls der
 Politik hinter sich -- als Mitarbeiter in nationalen Parlamenten und im
 EU-Parlament, als Strategen in großen Interessensverbänden, als Journalisten in
 den Ressorts Politik und Wirtschaft.
-
-[0]: www.publicaffairs.cc
