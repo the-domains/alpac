@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: B - 1040 Brussels
-datePublished: '2016-04-17T15:17:39.925Z'
-dateModified: '2016-04-17T15:17:13.948Z'
+datePublished: '2016-04-17T15:21:13.764Z'
+dateModified: '2016-04-17T15:17:47.347Z'
 title: eacon - European Affairs Consulting Group s.p.r.l.
 author: []
 sourcePath: _posts/2016-04-17-avenue-des-arts-39.md
