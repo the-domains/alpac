@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-17T13:49:40.670Z'
-dateModified: '2016-04-17T13:49:34.702Z'
+datePublished: '2016-04-17T13:58:29.460Z'
+dateModified: '2016-04-17T13:58:27.041Z'
 title: |-
   Verhaltenskodex Austrian Lobbying & Public Affairs
   Council
@@ -26,6 +26,13 @@ _type: WebPage
 ---
 # Verhaltenskodex Austrian Lobbying & Public Affairs
 Council
+
+_(Verhaltenskodex im Sinne des Lobbying- und
+Interessensvertretungs-Transparenz-Gesetz - LobbyG BGBl I 2012/64 § 7)_
+
+ALPAC-Mitglieder legen ihre Tätigkeit den
+nebenstehenden Verhaltenskodex zugrunde. Sie sind daher in der Lage, gemäß §7
+LobbyG, auf diesen allgemein verfügbaren Zugang zu verweisen.
 
 ## Präambel
 
