@@ -4,7 +4,7 @@
         <description><![CDATA[ALPAC - Austrian Lobbying & Public Affairs Council]]></description>
         <link>https://thegrid.ai/alpac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 19:37:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 19:42:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/alpac/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Mon, 18 Apr 2016 19:30:42 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Public Affairs Agency]]></title>
+            <description><![CDATA[<article><h1>Public Affairs Agency</h1><p>A-1060 Wien</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87f0552609200cc8f1a47dfb4628a308df3650af.jpg"></article>]]></description>
+            <link>https://thegrid.ai/alpac/public-affairs-agency/index.html</link>
+            <guid isPermaLink="false">a1b7d7e8-9962-45ea-b604-0a95ee046a22</guid>
+            <pubDate>Mon, 18 Apr 2016 19:42:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Heinz Lederer Communications GmbH]]></title>
             <description><![CDATA[<article><h1>Heinz Lederer Communications GmbH</h1><p>1010 Wien, Wipplingerstrasse 24-26</p></article>]]></description>
             <link>https://thegrid.ai/alpac/heinz-lederer-communications-gmbh/index.html</link>
             <guid isPermaLink="false">59053f28-c69b-49d7-85f6-132eb32bafe2</guid>
-            <pubDate>Mon, 18 Apr 2016 19:36:41 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 19:36:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jurka P.S.A. GmbH]]></title>
