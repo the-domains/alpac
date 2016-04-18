@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: A-1060 Wien
-datePublished: '2016-04-18T19:42:43.000Z'
-dateModified: '2016-04-18T19:42:42.315Z'
+description: 'Gumpendorferstraße 56, A-1060 Wien'
+datePublished: '2016-04-18T19:47:44.743Z'
+dateModified: '2016-04-18T19:43:05.235Z'
 title: Public Affairs Agency
 author: []
+sourcePath: _posts/2016-04-18-public-affairs-agency.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-public-affairs-agency.md
-published: true
 url: public-affairs-agency/index.html
 _type: Article
 
