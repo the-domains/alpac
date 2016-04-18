@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Gumpendorferstraße 56, A-1060 Wien'
-datePublished: '2016-04-18T19:47:44.743Z'
-dateModified: '2016-04-18T19:43:05.235Z'
+datePublished: '2016-04-18T20:51:55.899Z'
+dateModified: '2016-04-18T20:51:55.284Z'
 title: Public Affairs Agency
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-18-public-affairs-agency.md
 published: true
 authors: []
@@ -23,7 +25,7 @@ _type: Article
 
 ---
 # Public Affairs Agency
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecdcfa50-7c16-4bc3-93c8-5221cf5a4c2b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/87f0552609200cc8f1a47dfb4628a308df3650af.jpg)
 
 Gumpendorferstraße 56, A-1060 Wien
 
