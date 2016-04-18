@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-17T13:20:25.083Z'
-dateModified: '2016-04-17T13:20:17.724Z'
+datePublished: '2016-04-18T19:30:42.965Z'
+dateModified: '2016-04-18T19:30:26.709Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeed3411-0dda-48d2-a097-b6ad1bc44e6a.jpg)
 
 [European
 Affairs Consulting Group s.p.r.l.][0],   
