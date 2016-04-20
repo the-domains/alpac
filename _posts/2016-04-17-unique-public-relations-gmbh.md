@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Forum Schönbrunn, Schönbrunner Straße 297, Stiege 1 / Stock 3, A-1120 Wien'
-datePublished: '2016-04-18T20:51:44.445Z'
-dateModified: '2016-04-18T20:49:58.444Z'
+datePublished: '2016-04-20T15:30:12.516Z'
+dateModified: '2016-04-20T15:29:51.035Z'
 title: Unique Public Relations GmbH
 author:
   - name: ''
@@ -25,7 +25,7 @@ _type: Article
 
 ---
 # Unique Public Relations GmbH
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7291ae62-f988-48ab-9e64-84e00934587a.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9151832-1b3d-4b85-9bb6-501b0beb8d16.jpg)
 
 Forum Schönbrunn, Schönbrunner Straße 297, Stiege 1 / Stock 3, A-1120 Wien
 
