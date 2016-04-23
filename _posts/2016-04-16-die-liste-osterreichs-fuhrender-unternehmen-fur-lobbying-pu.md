@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'European Affairs Consulting Group s.p.r.l. Jurka P.S.A. GmbH Kovar & Partners GmbH Krammer Consultants Politics & Media GmbH Heinz Lederer Communications GmbH Public Affairs Agency Unique Public Relations GmbH Wörter PR GmbH'
-datePublished: '2016-04-23T15:06:53.847Z'
-dateModified: '2016-04-23T15:05:28.460Z'
+datePublished: '2016-04-23T15:08:15.241Z'
+dateModified: '2016-04-23T15:07:08.797Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
@@ -34,8 +34,7 @@ _type: Article
 [Unique Public Relations GmbH][6]  
 [Wörter PR GmbH][7]
 
-Mag. Imma
-Baumgartner
+## Mag. Imma Baumgartner
 
 Public Affairs Agency, Gumpendorferstraße 56, A-1060 Wien/Vienna
 
