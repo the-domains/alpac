@@ -3,30 +3,30 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: '1010 Wien, Wipplingerstrasse 24-26'
-datePublished: '2016-04-18T19:36:51.126Z'
-dateModified: '2016-04-18T19:36:50.098Z'
+description: 'Wipplingerstrasse 24-26, 1010 Wien/Vienna'
+datePublished: '2016-04-23T06:30:45.090Z'
+dateModified: '2016-04-23T06:30:39.779Z'
 title: Heinz Lederer Communications GmbH
 author: []
+sourcePath: _posts/2016-04-18-heinz-lederer-communications-gmbh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-heinz-lederer-communications-gmbh.md
-published: true
+starred: false
 url: heinz-lederer-communications-gmbh/index.html
 _type: Article
 
 ---
 # Heinz Lederer Communications GmbH
 
-1010 Wien, Wipplingerstrasse 24-26
+Wipplingerstrasse 24-26, 1010 Wien/Vienna
 
-Tel. +43 664 2402086
+T: +43 664 2402086
 
 office@lederer-communication.at
 
