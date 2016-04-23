@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Gabelsbergerstraße 27/3/7, 5020 Salzburg'
-datePublished: '2016-04-23T06:33:48.747Z'
-dateModified: '2016-04-23T06:27:39.374Z'
+datePublished: '2016-04-23T15:04:02.484Z'
+dateModified: '2016-04-23T14:48:16.547Z'
 title: Wörter PR GmbH
 author: []
 sourcePath: _posts/2016-04-18-worter-pr-gmbh.md
