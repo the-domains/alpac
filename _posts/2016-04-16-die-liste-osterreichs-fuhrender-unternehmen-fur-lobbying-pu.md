@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'European Affairs Consulting Group s.p.r.l. Jurka P.S.A. GmbH Kovar & Partners GmbH Krammer Consultants Politics & Media GmbH Heinz Lederer Communications GmbH Public Affairs Agency Unique Public Relations GmbH Wörter PR GmbH'
-datePublished: '2016-04-23T15:13:58.716Z'
-dateModified: '2016-04-23T15:11:11.276Z'
+description: ''
+datePublished: '2016-04-23T15:18:42.302Z'
+dateModified: '2016-04-23T15:18:41.347Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
@@ -24,6 +24,8 @@ _type: Article
 ---
 # Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/088067ea-cc04-4676-8f0d-13063740462e.jpg)
+
+## Directory of the Leading Austrian Public Affairs Consultancies
 
 [European Affairs Consulting Group s.p.r.l.][0]  
 [Jurka P.S.A. GmbH][1]  
