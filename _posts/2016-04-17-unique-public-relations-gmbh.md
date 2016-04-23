@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 'Forum Schönbrunn, Schönbrunner Straße 297, Stiege 1 / Stock 3, A-1120 Wien'
-datePublished: '2016-04-20T15:30:12.516Z'
-dateModified: '2016-04-20T15:29:51.035Z'
+description: 'Forum Schönbrunn, Schönbrunner Straße 297, 1/3. Stock/floor, A-1120 Wien/Vienna'
+datePublished: '2016-04-23T06:24:48.920Z'
+dateModified: '2016-04-23T06:24:39.656Z'
 title: Unique Public Relations GmbH
 author:
   - name: ''
@@ -20,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: unique-public-relations-gmbh/index.html
 _type: Article
 
@@ -27,9 +27,9 @@ _type: Article
 # Unique Public Relations GmbH
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9151832-1b3d-4b85-9bb6-501b0beb8d16.jpg)
 
-Forum Schönbrunn, Schönbrunner Straße 297, Stiege 1 / Stock 3, A-1120 Wien
+Forum Schönbrunn, Schönbrunner Straße 297, 1/3\. Stock/floor, A-1120 Wien/Vienna
 
-T +43 1-877 55 43
+T.: +43 1 877 55 43
 
 office@unique-relations.at
 
