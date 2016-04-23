@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Gumpendorferstraße 56, A-1060 Wien/Vienna'
-datePublished: '2016-04-23T14:48:10.270Z'
-dateModified: '2016-04-23T14:48:09.215Z'
+datePublished: '2016-04-23T15:11:19.068Z'
+dateModified: '2016-04-23T15:09:09.060Z'
 title: Public Affairs Agency
 author:
   - name: ''
