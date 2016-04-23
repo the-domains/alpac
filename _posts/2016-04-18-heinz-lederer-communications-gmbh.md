@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Wipplingerstrasse 24-26, 1010 Wien/Vienna'
-datePublished: '2016-04-23T06:33:43.766Z'
-dateModified: '2016-04-23T06:30:54.551Z'
+datePublished: '2016-04-23T15:03:56.645Z'
+dateModified: '2016-04-23T14:49:30.527Z'
 title: Heinz Lederer Communications GmbH
 author: []
 sourcePath: _posts/2016-04-18-heinz-lederer-communications-gmbh.md
