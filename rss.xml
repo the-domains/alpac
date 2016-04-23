@@ -4,7 +4,7 @@
         <description><![CDATA[ALPAC - Austrian Lobbying & Public Affairs Council]]></description>
         <link>http://www.alpac.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 15:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 22:58:22 GMT</lastBuildDate>
         <atom:link href="http://www.alpac.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.alpac.at/alpac-austrian-lobbying-and-public-affairs-council/index.html</link>
             <guid isPermaLink="false">189dd8e5-e939-44c2-bd05-2b2f1249fee1</guid>
             <pubDate>Sat, 23 Apr 2016 15:34:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ALPAC - Qualitätskriterien ]]></title>
+            <description><![CDATA[<article><h1>ALPAC - Qualitätskriterien </h1><h2>Erfahrung und Compliance-Management </h2><p>Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung voraus.</p></article>]]></description>
+            <link>http://www.alpac.at/alpac-qualitatskriterien/index.html</link>
+            <guid isPermaLink="false">c584ffe7-2bda-4396-b186-9cc1d5d01865</guid>
+            <pubDate>Sat, 23 Apr 2016 22:57:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jurka P.S.A. GmbH]]></title>
@@ -68,15 +75,6 @@
             <link>http://www.alpac.at/unique-public-relations-gmbh/index.html</link>
             <guid isPermaLink="false">daa1338e-73a0-40be-9c91-b0ed8c80f277</guid>
             <pubDate>Sat, 23 Apr 2016 14:51:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ALPAC - Qualitätskriterien ]]></title>
-            <description><![CDATA[<article><h1>ALPAC - Qualitätskriterien </h1><h2>Erfahrung und Compliance-Management
-</h2><p>Eine Mitgliedschaft bei ALPAC
-setzt einschlägige, mehrjährige Berufserfahrung voraus.</p></article>]]></description>
-            <link>http://www.alpac.at/alpac-qualitatskriterien/index.html</link>
-            <guid isPermaLink="false">c584ffe7-2bda-4396-b186-9cc1d5d01865</guid>
-            <pubDate>Sun, 17 Apr 2016 14:36:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
