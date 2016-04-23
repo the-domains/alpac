@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T15:18:42.302Z'
-dateModified: '2016-04-23T15:18:41.347Z'
-title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
+datePublished: '2016-04-23T15:25:54.370Z'
+dateModified: '2016-04-23T15:22:03.075Z'
+title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen . Directory of the Leading Austrian Public Affairs Consultancies'
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
 published: true
@@ -22,10 +22,10 @@ url: alpac-austrian-lobbying-and-public-affairs-council/index.html
 _type: Article
 
 ---
-# Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen
+# Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen . Directory of the Leading Austrian Public Affairs Consultancies
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/088067ea-cc04-4676-8f0d-13063740462e.jpg)
 
-## Directory of the Leading Austrian Public Affairs Consultancies
+## Unternehmen/Companies:
 
 [European Affairs Consulting Group s.p.r.l.][0]  
 [Jurka P.S.A. GmbH][1]  
@@ -35,6 +35,8 @@ _type: Article
 [Public Affairs Agency][5]  
 [Unique Public Relations GmbH][6]  
 [Wörter PR GmbH][7]
+
+# Mitglieder/Members: 
 
 ## Mag. Imma Baumgartner
 
