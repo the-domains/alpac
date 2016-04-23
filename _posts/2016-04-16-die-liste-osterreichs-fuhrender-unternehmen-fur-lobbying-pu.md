@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'European Affairs Consulting Group s.p.r.l. Jurka P.S.A. GmbH Kovar & Partners GmbH Krammer Consultants Politics & Media GmbH Heinz Lederer Communications GmbH Public Affairs Agency Unique Public Relations GmbH Wörter PR GmbH'
-datePublished: '2016-04-23T15:08:37.724Z'
-dateModified: '2016-04-23T15:08:31.588Z'
+datePublished: '2016-04-23T15:09:45.799Z'
+dateModified: '2016-04-23T15:09:38.853Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
@@ -40,13 +40,13 @@ Public Affairs Agency, Gumpendorferstraße 56, A-1060 Wien/Vienna
 
 T: +43 1 370 00 10-17, M: +43 676 3456209, office@public-affairs-agency.net, www.public-affairs-agency.net
 
-Mag. Heimo Gradischnig
+## Mag. Heimo Gradischnig
 
 Kovar & Partners GmbH, Dorotheergasse 7, A-1010 Wien/Vienna
 
 T: +43 1 5229220-0, F: +43 1 5229220-22, heimo.gradischnig@publicaffairs.cc, www.publicaffairs.cc
 
-Prof. Dr. Karl Jurka
+## Prof. Dr. Karl Jurka
 
 Jurka P.S.A. GmbH, Mariahilfer Straße 103/6, A-1060 Wien/Vienna
 
