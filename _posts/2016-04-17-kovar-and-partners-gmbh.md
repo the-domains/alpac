@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Kovar & Partners, Dorotheergasse 7, A-1010 Wien/Vienna '
-datePublished: '2016-04-23T15:04:10.897Z'
-dateModified: '2016-04-23T14:57:21.394Z'
+datePublished: '2016-04-23T15:09:00.742Z'
+dateModified: '2016-04-23T15:04:34.129Z'
 title: 'Kovar & Partners GmbH'
 author: []
 sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
