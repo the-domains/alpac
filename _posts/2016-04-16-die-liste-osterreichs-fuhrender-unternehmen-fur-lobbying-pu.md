@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'European Affairs Consulting Group s.p.r.l. Jurka P.S.A. GmbH Kovar & Partners GmbH Krammer Consultants Politics & Media GmbH Heinz Lederer Communications GmbH Public Affairs Agency Unique Public Relations GmbH Wörter PR GmbH'
-datePublished: '2016-04-23T15:09:45.799Z'
-dateModified: '2016-04-23T15:09:38.853Z'
+datePublished: '2016-04-23T15:11:00.980Z'
+dateModified: '2016-04-23T15:10:54.575Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
@@ -58,37 +58,37 @@ Unique Public Relations GmbH, Forum Schönbrunn, Schönbrunner Straße 297, 1/3\
 
 T.: +43 1 877 55 43, office@unique-relations.at, www.unique-relations.at
 
-Mag. Karl Krammer
+## Mag. Karl Krammer
 
 Krammer Consultants Politics & Media GmbH, Oppolzergasse 6, A-1010 Wien/Vienna
 
 T: +43 1 533 15 15, F: +43 1 533 15 15-20, office@krammer-consultants.com, www.krammer-consultants.com
 
-Andreas Kovar
+## Andreas Kovar
 
 Kovar & Partners GmbH, Dorotheergasse 7, A-1010 Wien/Vienna
 
 T: +43 1 5229220-0, F: +43 1 5229220-22, andreas.kovar@publicaffairs.cc, www.publicaffairs.cc
 
-Mag. Heinz Lederer 
+## Mag. Heinz Lederer 
 
 Heinz Lederer Communications GmbH, Wipplingerstrasse 24-26, 1010 Wien/Vienna
 
 T: +43 664 2402086, office@lederer-communication.at, www.lederer-communication.at
 
-Walter Osztovics
+## Walter Osztovics
 
 Kovar & Partners GmbH, Dorotheergasse 7, A-1010 Wien/Vienna
 
 T: +43 1 5229220-0, F: +43 1 5229220-22, walter.osztovics@publicaffairs.cc, www.publicaffairs.cc
 
-Mag. Martin Säckl
+## Mag. Martin Säckl
 
 eacon - European Affairs Consulting Group s.p.r.l., Avenue des Arts 39, B - 1040 Brüssel/Brussels
 
 T: +32 2 502 77 71, F: +32 2 502 77 03, martin.saeckl@eacongroup.com, www.eacongroup.eu
 
-Mag. Wolfgang Wörter
+## Mag. Wolfgang Wörter
 
 Wörter PR GmbH, Gabelsbergerstraße 27/3/7, 5020 Salzburg
 
