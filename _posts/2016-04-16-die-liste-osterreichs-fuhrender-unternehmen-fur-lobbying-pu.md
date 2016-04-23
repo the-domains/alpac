@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'European Affairs Consulting Group s.p.r.l. Jurka P.S.A. GmbH Kovar & Partners GmbH Krammer Consultants Politics & Media GmbH Heinz Lederer Communications GmbH Public Affairs Agency Unique Public Relations GmbH Wörter PR GmbH'
-datePublished: '2016-04-23T15:03:41.836Z'
-dateModified: '2016-04-23T15:03:37.515Z'
+datePublished: '2016-04-23T15:05:28.062Z'
+dateModified: '2016-04-23T15:05:24.676Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
 author: []
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
@@ -93,8 +93,7 @@ Mag. Wolfgang Wörter
 
 Wörter PR GmbH, Gabelsbergerstraße 27/3/7, 5020 Salzburg
 
-T: +43
-662 890 547, F: +43 662 890 547 -- 15, office@wolfgangwoerter.com, www.wolfgangwoerter.com
+T: +43 662 890 547, F: +43 662 890 547 -- 15, office@wolfgangwoerter.com, www.wolfgangwoerter.com
 
 [0]: http://www.eacongroup.eu/deu/
 [1]: http://www.karljurka.com/
