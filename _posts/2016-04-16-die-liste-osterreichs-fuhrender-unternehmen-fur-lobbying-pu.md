@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Public Affairs Agency, Gumpendorferstraße 56, A-1060 Wien/Vienna'
-datePublished: '2016-04-25T19:50:36.414Z'
-dateModified: '2016-04-25T19:50:07.542Z'
+datePublished: '2016-04-25T19:51:23.072Z'
+dateModified: '2016-04-25T19:50:39.800Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
 author:
   - name: ''
