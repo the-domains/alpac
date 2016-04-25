@@ -1,7 +1,7 @@
 name: ALPAC
 favicon: null
 layout_spectrum: 0.50169
-typography_spectrum: 0.50169
+typography_spectrum: 0.49831
 collections:
   - index:
       path: /
@@ -35,7 +35,7 @@ color:
     - '#474747'
     - '#74c2e4'
   brandStrength: 1
-  lightness: 0.9375
-  saturation: 0.9017147871199995
+  lightness: 0.875
+  saturation: 0.8125
   rhythmicContrast: 0.75
 purpose: []
