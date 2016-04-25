@@ -1,7 +1,7 @@
 name: ALPAC
 favicon: null
-layout_spectrum: 0.74196
-typography_spectrum: 0.58122
+layout_spectrum: 0.50508
+typography_spectrum: 0.50508
 collections:
   - index:
       path: /
