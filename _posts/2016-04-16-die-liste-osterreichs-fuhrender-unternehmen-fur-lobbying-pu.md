@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Public Affairs Agency, Gumpendorferstraße 56, A-1060 Wien/Vienna'
-datePublished: '2016-04-25T19:48:18.099Z'
-dateModified: '2016-04-25T19:48:14.673Z'
+datePublished: '2016-04-25T19:50:36.414Z'
+dateModified: '2016-04-25T19:50:07.542Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
 author:
   - name: ''
@@ -27,7 +27,7 @@ _type: Article
 # Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen
 
 ## Directory of the Austrian Leading Public Affairs Consultancies
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69770afe-83fb-41da-9558-cb715c5db56e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a7c1917-d473-4d99-adf7-a13fb8e58b09.jpg)
 
 ## [European Affairs Consulting Group s.p.r.l.][0]  
 [Jurka P.S.A. GmbH][1]  
