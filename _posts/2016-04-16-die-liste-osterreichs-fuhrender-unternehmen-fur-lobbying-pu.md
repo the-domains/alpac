@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-25T11:22:59.481Z'
-dateModified: '2016-04-25T11:22:53.425Z'
+datePublished: '2016-04-25T14:47:57.787Z'
+dateModified: '2016-04-25T14:47:57.148Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
 author:
   - name: ''
