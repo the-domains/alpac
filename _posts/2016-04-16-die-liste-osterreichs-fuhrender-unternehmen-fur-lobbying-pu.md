@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-23T23:10:58.334Z'
-dateModified: '2016-04-23T23:10:57.156Z'
+datePublished: '2016-04-25T10:58:02.349Z'
+dateModified: '2016-04-25T10:58:00.205Z'
 title: 'Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-16-die-liste-osterreichs-fuhrender-unternehmen-fur-lobbying-pu.md
 published: true
 authors: []
@@ -25,7 +27,7 @@ _type: Article
 # Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen
 
 ## Directory of the Austrian Leading Public Affairs Consultancies
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/088067ea-cc04-4676-8f0d-13063740462e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e94980f4321965f6fd4e2f9dbece8ca6ca37bff.jpg)
 
 ## [European Affairs Consulting Group s.p.r.l.][0]  
 [Jurka P.S.A. GmbH][1]  
