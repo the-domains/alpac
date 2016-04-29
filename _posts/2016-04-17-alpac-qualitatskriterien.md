@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung voraus.'
-datePublished: '2016-04-29T05:08:08.592Z'
-dateModified: '2016-04-29T05:07:49.748Z'
+datePublished: '2016-04-29T05:09:37.068Z'
+dateModified: '2016-04-29T05:09:06.012Z'
 title: 'ALPAC - Qualitätskriterien '
 author: []
 sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
@@ -28,7 +28,7 @@ _type: Article
 
 Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung voraus.
 
-Die Mitglieder des ALPAC bekennen sich zur Einhaltung des ALPAC-Verhaltenskodex. Die Umsetzung der [ALPAC-Compliance Richtlinie][0] für die Public Affairs Beratung ist für ALPAC-Mitglieder verpflichtend. 
+Die Mitglieder des ALPAC bekennen sich zur Einhaltung des [ALPAC-Verhaltenskodex][0]. Die Umsetzung der [ALPAC-Compliance Richtlinie][1] für die Public Affairs Beratung ist für ALPAC-Mitglieder verpflichtend. 
 
 Für den Kunden sichert dies Transparenz, klar nachvollziehbare Regeln und professionelle Qualitätsstandards bei der Beauftragung von Lobbying-Dienstleistungen.
 
@@ -42,4 +42,5 @@ Zudem sehen es die Mitglieder auch als gemeinsame Aufgabe, über die Rolle von L
 
 ALPAC versteht sich als Zusammenschluss von Experten auf dem Gebiet der Beratung über Politik. ALPAC-Mitglieder sind Eigentümer von Beratungsunternehmen, die in den Bereichen Lobbying und Public Affairs und anderen Formen der Beratung über Politik beruflich tätig sind. Die Mitgliedschaft steht prinzipiell allen selbstständige Beraterinnen und Beratern, Gesellschafterinnen und Gesellschaftern von Beratungsunternehmen offen, die in den Bereichen Lobbying und Public Affairs und anderen Formen der Beratung über Politik hauptberuflich tätig sind. ALPAC-Mitglied werden Sie auf Antrag durch Zustimmung der Generalversammlung.
 
-[0]: http://info.publicaffairs.cc/Freigegebene%20Dokumente/CRL_ALPAC_20140717.pdf
+[0]: http://www.alpac.at/verhaltenskodex-austrian-lobbying-and-public-affairs-council/
+[1]: http://info.publicaffairs.cc/Freigegebene%20Dokumente/CRL_ALPAC_20140717.pdf
