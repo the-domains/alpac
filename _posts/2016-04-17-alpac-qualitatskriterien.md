@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung voraus.'
-datePublished: '2016-04-29T05:09:51.792Z'
-dateModified: '2016-04-29T05:09:46.606Z'
+datePublished: '2016-04-29T05:11:13.539Z'
+dateModified: '2016-04-29T05:10:55.546Z'
 title: 'ALPAC - Qualitätskriterien '
 author: []
 sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
@@ -40,7 +40,7 @@ Zudem sehen es die Mitglieder auch als gemeinsame Aufgabe, über die Rolle von L
 
 ## Mitglied werden
 
-ALPAC versteht sich als Zusammenschluss von Experten auf dem Gebiet der Beratung über Politik. ALPAC-Mitglieder sind Eigentümer von Beratungsunternehmen, die in den Bereichen Lobbying und Public Affairs und anderen Formen der Beratung über Politik beruflich tätig sind. Die Mitgliedschaft steht prinzipiell allen selbstständige Beraterinnen und Beratern, Gesellschafterinnen und Gesellschaftern von Beratungsunternehmen offen, die in den Bereichen Lobbying und Public Affairs und anderen Formen der Beratung über Politik hauptberuflich tätig sind. ALPAC-Mitglied werden Sie auf Antrag durch Zustimmung der Generalversammlung.
+ALPAC versteht sich als Zusammenschluss von Experten auf dem Gebiet der Beratung über Politik. ALPAC-Mitglieder sind Eigentümer von Beratungsunternehmen, die in den Bereichen Lobbying und Public Affairs und anderen Formen der Beratung über Politik beruflich tätig sind. Die Mitgliedschaft steht prinzipiell allen selbstständige Beraterinnen und Beratern, Gesellschafterinnen und Gesellschaftern von Beratungsunternehmen offen, die in den Bereichen Lobbying und Public Affairs und anderen Formen der Beratung über Politik hauptberuflich tätig sind. ALPAC-Mitglied werden Sie auf Antrag von Mitgliedern durch Zustimmung der Generalversammlung.
 
 [0]: http://www.alpac.at/verhaltenskodex-austrian-lobbying-and-public-affairs-council/
 [1]: http://www.alpac.at/compliance-management-fur-beratungsunternehmen/
