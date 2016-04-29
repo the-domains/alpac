@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung voraus.'
-datePublished: '2016-04-23T22:57:57.779Z'
-dateModified: '2016-04-23T22:57:51.771Z'
+datePublished: '2016-04-29T05:08:08.592Z'
+dateModified: '2016-04-29T05:07:49.748Z'
 title: 'ALPAC - Qualitätskriterien '
 author: []
 sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: alpac-qualitatskriterien/index.html
 _type: Article
 
