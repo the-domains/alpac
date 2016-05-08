@@ -4,7 +4,7 @@
         <description><![CDATA[ALPAC - Austrian Lobbying & Public Affairs Council]]></description>
         <link>http://www.alpac.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 11:20:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 11:21:09 GMT</lastBuildDate>
         <atom:link href="http://www.alpac.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.alpac.at/alpac-qualitatskriterien/index.html</link>
             <guid isPermaLink="false">c584ffe7-2bda-4396-b186-9cc1d5d01865</guid>
             <pubDate>Fri, 29 Apr 2016 05:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kovar & Partners GmbH]]></title>
+            <description><![CDATA[<article><h1>Kovar & Partners GmbH</h1><p>Kovar & Partners, Dorotheergasse 7, A-1010 Wien/Vienna </p></article>]]></description>
+            <link>http://www.alpac.at/kovar-and-partners-gmbh/index.html</link>
+            <guid isPermaLink="false">9cd20e21-8f82-42e5-b7f6-fbdd35ca206d</guid>
+            <pubDate>Sun, 08 May 2016 11:20:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jurka P.S.A. GmbH]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.alpac.at/krammer-consultants-politics-and-media-gmbh/index.html</link>
             <guid isPermaLink="false">520826dd-c9d6-40a6-909f-97cf660b00ea</guid>
             <pubDate>Wed, 27 Apr 2016 12:15:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Public Affairs Agency]]></title>
-            <description><![CDATA[<article><h1>Public Affairs Agency</h1><p>Gumpendorferstraße 56, A-1060 Wien/Vienna</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87f0552609200cc8f1a47dfb4628a308df3650af.jpg"></article>]]></description>
-            <link>http://www.alpac.at/public-affairs-agency/index.html</link>
-            <guid isPermaLink="false">a1b7d7e8-9962-45ea-b604-0a95ee046a22</guid>
-            <pubDate>Sat, 23 Apr 2016 15:11:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
