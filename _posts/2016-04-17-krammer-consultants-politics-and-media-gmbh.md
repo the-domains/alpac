@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Oppolzergasse 6, A-1010 Wien/Vienna'
-datePublished: '2016-04-27T12:15:28.311Z'
-dateModified: '2016-04-27T12:15:23.652Z'
+datePublished: '2016-05-08T11:21:34.801Z'
+dateModified: '2016-05-08T11:21:32.072Z'
 title: 'Krammer Consultants Politics & Media GmbH'
 author: []
 sourcePath: _posts/2016-04-17-krammer-consultants-politics-and-media-gmbh.md
-published: true
 authors: []
 publisher:
   name: null
