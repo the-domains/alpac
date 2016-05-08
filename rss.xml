@@ -4,7 +4,7 @@
         <description><![CDATA[ALPAC - Austrian Lobbying & Public Affairs Council]]></description>
         <link>http://www.alpac.at/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 11:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 11:20:26 GMT</lastBuildDate>
         <atom:link href="http://www.alpac.at/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs und alle politikbezogenen Beratungsleistungen]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.alpac.at/alpac-qualitatskriterien/index.html</link>
             <guid isPermaLink="false">c584ffe7-2bda-4396-b186-9cc1d5d01865</guid>
             <pubDate>Fri, 29 Apr 2016 05:11:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[eacon - European Affairs Consulting Group s.p.r.l.]]></title>
+            <description><![CDATA[<article><h1>eacon - European Affairs Consulting Group s.p.r.l.</h1><p>Avenue des Arts 39</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8881e81477f37b01c4daa12b90f4f54bcc6ff202.jpg"></article>]]></description>
+            <link>http://www.alpac.at/avenue-des-arts-39/index.html</link>
+            <guid isPermaLink="false">8245afda-4c5f-400e-92ed-690d9d44586b</guid>
+            <pubDate>Sun, 08 May 2016 11:20:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Heinz Lederer Communications GmbH]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.alpac.at/public-affairs-agency/index.html</link>
             <guid isPermaLink="false">a1b7d7e8-9962-45ea-b604-0a95ee046a22</guid>
             <pubDate>Sat, 23 Apr 2016 15:11:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kovar & Partners GmbH]]></title>
-            <description><![CDATA[<article><h1>Kovar & Partners GmbH</h1><p>Kovar & Partners, Dorotheergasse 7, A-1010 Wien/Vienna </p></article>]]></description>
-            <link>http://www.alpac.at/kovar-and-partners-gmbh/index.html</link>
-            <guid isPermaLink="false">9cd20e21-8f82-42e5-b7f6-fbdd35ca206d</guid>
-            <pubDate>Sat, 23 Apr 2016 15:09:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
