@@ -5,14 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Forum Schönbrunn, Schönbrunner Straße 297, 1/3. Stock/floor, A-1120 Wien/Vienna'
-datePublished: '2016-04-23T14:51:01.657Z'
-dateModified: '2016-04-23T14:50:52.119Z'
+datePublished: '2016-05-08T11:19:53.438Z'
+dateModified: '2016-05-08T11:19:47.651Z'
 title: Unique Public Relations GmbH
 author:
   - name: ''
     url: ''
 sourcePath: _posts/2016-04-17-unique-public-relations-gmbh.md
-published: true
 authors: []
 publisher:
   name: null
