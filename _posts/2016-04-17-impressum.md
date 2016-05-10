@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Kontakt: '
-datePublished: '2016-05-08T11:17:23.003Z'
-dateModified: '2016-05-08T11:17:20.334Z'
+description: 'Kontakt:'
+datePublished: '2016-05-10T17:26:57.885Z'
+dateModified: '2016-05-10T17:26:52.373Z'
 title: Impressum
 author: []
 sourcePath: _posts/2016-04-17-impressum.md
@@ -37,20 +37,17 @@ Dorotheergasse 7, 1010 Wien, Österreich
 
 _Vorstand:_
 
-Mag. Imma Baumgartner, Mag. Karl Krammer, Dr. Karl Jurka, Andreas Kovar
+Mag. Heimo Gradischnig, Mag. Imma Baumgartner, Mag. Karl Krammer, Andreas Kovar
 
 _Sprecher:_
 
-Andreas Kovar
+Mag. Heimo Gradischnig
 
 _Zweck des Vereins sind:_
 
-Die Kontaktpflege unter den Mitgliedern vor dem
-Hintergrund der beruflichen Tätigkeit in den Bereichen Politikberatung, Public
-Affairs, Governmental Affairs, Advocavcy und Lobbying.
+Die Kontaktpflege unter den Mitgliedern vor dem Hintergrund der beruflichen Tätigkeit in den Bereichen Politikberatung, Public Affairs, Governmental Affairs, Advocavcy und Lobbying.
 
-Die Erörterung von Fragen und Anliegen, die diese
-Beratung betreffen. 
+Die Erörterung von Fragen und Anliegen, die diese Beratung betreffen. 
 
 Die Wahrnehmung gemeinsamer Interessen der Mitglieder, insbesondere auch von berufsständischen Interessen gegenüber Politik und Gesellschaft.
 
