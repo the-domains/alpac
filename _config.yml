@@ -28,6 +28,9 @@ navigation:
   - name: ALPAC Verhaltenskodex
     id: c676c83b-8ea6-4e05-8bed-9eeac1830a02
     type: content
+  - name: 'ALPAC - Qualitätskriterien '
+    id: c584ffe7-2bda-4396-b186-9cc1d5d01865
+    type: content
 favicon: null
 collections:
   - index:
