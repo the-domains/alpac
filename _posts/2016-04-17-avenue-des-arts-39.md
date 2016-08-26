@@ -1,38 +1,31 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Avenue des Arts 39
-datePublished: '2016-05-08T11:20:24.443Z'
-dateModified: '2016-05-08T11:20:18.686Z'
-title: eacon - European Affairs Consulting Group s.p.r.l.
+datePublished: '2016-08-26T07:39:03.842Z'
+isBasedOnUrl: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-17-avenue-des-arts-39.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+via: {}
+dateModified: '2016-08-26T07:38:43.144Z'
+title: eacon - European Affairs Consulting Group s.p.r.l.
+id: 8245afda-4c5f-400e-92ed-690d9d44586b
+publisher: {}
+description: 'Avenue des Arts 39, B - 1040 Brüssel/Brussels'
 starred: false
-url: avenue-des-arts-39/index.html
-_type: Article
+sourcePath: _posts/2016-04-17-avenue-des-arts-39.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # eacon - European Affairs Consulting Group s.p.r.l.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8881e81477f37b01c4daa12b90f4f54bcc6ff202.jpg)
 
-Avenue des Arts 39
+### Mag. Martin Säckl
 
-B - 1040 Brüssel/Brussels
+Avenue des Arts 39, B - 1040 Brüssel/Brussels
 
-T: +32 2 502 77 71
-
-F: +32 2 502 77 03
+T: +32 2 502 77 71, F: +32 2 502 77 03
 
 martin.saeckl@eacongroup.com
 
