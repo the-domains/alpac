@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T09:48:01.686Z'
+datePublished: '2016-08-26T09:48:04.191Z'
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T09:47:50.980Z'
+dateModified: '2016-08-26T09:48:03.615Z'
 title: Compliance Management für Beratungsunternehmen
 id: 5cccc5a7-daa4-428c-9ac4-626fbffd1a41
 publisher: {}
