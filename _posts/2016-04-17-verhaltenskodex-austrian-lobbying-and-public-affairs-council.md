@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T09:03:14.572Z'
+datePublished: '2016-08-26T09:07:09.637Z'
 sourcePath: >-
   _posts/2016-04-17-verhaltenskodex-austrian-lobbying-and-public-affairs-council.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-26T09:03:13.768Z'
+dateModified: '2016-08-26T09:07:03.256Z'
 title: Verhaltenskodex Austrian Lobbying & Public Affairs Council
 publisher: {}
 description: >-
