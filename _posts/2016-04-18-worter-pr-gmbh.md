@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-26T08:30:25.102Z'
-sourcePath: _posts/2016-04-18-worter-pr-gmbh.md
-author: []
-via: {}
-dateModified: '2016-08-26T08:30:24.113Z'
-title: Wörter PR GmbH
 id: ce9be8eb-34a9-4144-9eaf-44614ccf8e6c
-publisher: {}
+dateModified: '2016-08-26T08:46:56.429Z'
+title: Wörter PR GmbH
+datePublished: '2016-08-26T08:46:57.525Z'
+author: []
 description: Mag. Wolfgang Wörter
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-04-18-worter-pr-gmbh.md
 inFeed: true
 hasPage: false
 inNav: false
