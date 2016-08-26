@@ -1,30 +1,26 @@
 ---
+datePublished: '2016-08-26T06:59:16.131Z'
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Gumpendorferstraße 56, A-1060 Wien/Vienna'
-datePublished: '2016-05-08T11:21:20.113Z'
-dateModified: '2016-05-08T11:21:18.847Z'
-title: Public Affairs Agency
+isBasedOnUrl: ''
+hasPage: false
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-18-public-affairs-agency.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+via: {}
+dateModified: '2016-08-26T06:59:15.494Z'
+title: Public Affairs Agency
+id: a1b7d7e8-9962-45ea-b604-0a95ee046a22
+publisher: {}
+description: Mag. Imma Baumgartner
 starred: false
-url: public-affairs-agency/index.html
-_type: Article
+sourcePath: _posts/2016-04-18-public-affairs-agency.md
+_type: Blurb
 
 ---
 # Public Affairs Agency
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/87f0552609200cc8f1a47dfb4628a308df3650af.jpg)
+
+Mag. Imma Baumgartner
 
 Gumpendorferstraße 56, A-1060 Wien/Vienna
 
