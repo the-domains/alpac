@@ -1,60 +1,18 @@
 ---
-datePublished: '2016-08-26T08:52:52.400Z'
+datePublished: '2016-08-26T08:54:04.277Z'
+sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
 author: []
 via: {}
-dateModified: '2016-08-26T08:52:51.541Z'
-title: Kovar & Partners GmbH
+dateModified: '2016-08-26T08:54:03.073Z'
+title: hhhh
 id: 9cd20e21-8f82-42e5-b7f6-fbdd35ca206d
 publisher: {}
-description: 'Andreas Kovar, Walter Osztovics, Heimo Gradischnig '
+description: ''
 starred: false
-sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5ef4359-1916-492b-a9cb-e91b376f0f63.jpg)
-
-# Kovar & Partners GmbH
-
-Andreas Kovar, Walter Osztovics, Heimo Gradischnig 
-
-_**Wien/Vienna:**_
-
-Kovar & Partners 
-
-Dorotheergasse 7
-
-A-1010 Wien/Vienna
-
-T: +43 1 5229220-0, F: +43 1 5229220-22
-
-office@publicaffairs.cc
-
-www.publicaffairs.cc
-
-_**Berlin:**_
-
-_KovarHuss_
-
-Unter den Linden 21, D-10117 Berlin
-
-T: +49 30 7677183-0
-
-_**Zürich/Zurich:**_
-
-_MUELLER Consulting & Partner_
-
-Gemeindestraße 48, CH-8032 Zürich/Zurich
-
-T: +41 44 5330400
-
-_**Brüssel/Brussels:**_
-
-_eacon - European Affairs Consulting Group_
-
-Avenue des Arts 39, B-1040 Brüssel/Brussels
-
-T: +32 2 5027771
+# hhhh
