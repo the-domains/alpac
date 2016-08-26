@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-26T09:55:56.504Z'
-sourcePath: _posts/2016-04-17-impressum.md
+datePublished: '2016-08-26T10:22:05.244Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T09:55:48.487Z'
+dateModified: '2016-08-26T10:21:59.004Z'
 title: Impressum
 id: 2a9a499f-41e1-4e4a-9305-10f9544ed394
 publisher: {}
 description: 'Andreas Kovar, Austrian Lobbying & Public Affairs Council – ALPAC'
 starred: false
+sourcePath: _posts/2016-04-17-impressum.md
 url: impressum/index.html
 _type: Article
 
