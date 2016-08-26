@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T09:48:04.191Z'
-inFeed: false
+datePublished: '2016-08-26T11:00:31.719Z'
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T09:48:03.615Z'
+dateModified: '2016-08-26T11:00:25.296Z'
 title: Compliance Management für Beratungsunternehmen
 id: 5cccc5a7-daa4-428c-9ac4-626fbffd1a41
 publisher: {}
@@ -17,7 +17,7 @@ description: >-
 starred: false
 sourcePath: _posts/2016-04-17-compliance-management-fur-beratungsunternehmen.md
 url: compliance-management-fur-beratungsunternehmen/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Compliance Management für Beratungsunternehmen
