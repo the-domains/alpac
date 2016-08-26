@@ -1,23 +1,23 @@
 ---
-datePublished: '2016-08-26T11:04:00.379Z'
+datePublished: '2016-08-26T11:22:43.592Z'
+sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T11:03:57.624Z'
+dateModified: '2016-08-26T11:20:25.330Z'
 title: ALPAC - Qualitätskriterien
 id: c584ffe7-2bda-4396-b186-9cc1d5d01865
 publisher: {}
 description: ''
 starred: true
-sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
 url: alpac-qualitatskriterien/index.html
 _type: Article
 
 ---
-# ALPAC - Qualitätskriterien
+## ALPAC - Qualitätskriterien
 
-## Erfahrung und Compliance-Management
+### Erfahrung und Compliance-Management
 
 Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung voraus.
 
