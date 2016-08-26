@@ -28,7 +28,7 @@ navigation:
   - name: Unternehmensliste
     id: b2e54a83-80cd-4368-884f-a0f1542f1100
     type: content
-  - name: ALPAC - Verhaltenskodex
+  - name: Verhaltenskodex
     id: c676c83b-8ea6-4e05-8bed-9eeac1830a02
     type: content
   - name: 'ALPAC - Qualitätskriterien '
