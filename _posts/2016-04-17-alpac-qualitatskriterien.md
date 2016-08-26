@@ -1,28 +1,29 @@
 ---
-id: c584ffe7-2bda-4396-b186-9cc1d5d01865
-dateModified: '2016-08-26T06:53:04.050Z'
-title: 'ALPAC - Qualitätskriterien '
-datePublished: '2016-08-26T06:53:04.932Z'
-author: []
+datePublished: '2016-08-26T09:02:09.716Z'
+sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
+inFeed: true
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-26T09:01:57.184Z'
+title: ALPAC - Qualitätskriterien
+id: c584ffe7-2bda-4396-b186-9cc1d5d01865
+publisher: {}
 description: >-
   Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung
   voraus.
-publisher: {}
-via: {}
 starred: true
-sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
 url: alpac-qualitatskriterien/index.html
-_type: Blurb
+_type: Article
 
 ---
-# ALPAC - Qualitätskriterien 
+# ALPAC - Qualitätskriterien
 
-## Erfahrung und Compliance-Management 
+## Erfahrung und Compliance-Management
 
 Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung voraus.
 
-Die Mitglieder des ALPAC bekennen sich zur Einhaltung des [ALPAC-Verhaltenskodex][0]. Die Umsetzung der [ALPAC-Compliance Richtlinie][1] für die Public Affairs Beratung ist für ALPAC-Mitglieder verpflichtend. 
+Die Mitglieder des ALPAC bekennen sich zur Einhaltung des [ALPAC-Verhaltenskodex][0]. Die Umsetzung der [ALPAC-Compliance Richtlinie][1] für die Public Affairs Beratung ist für ALPAC-Mitglieder verpflichtend.
 
 Für den Kunden sichert dies Transparenz, klar nachvollziehbare Regeln und professionelle Qualitätsstandards bei der Beauftragung von Lobbying-Dienstleistungen.
 
