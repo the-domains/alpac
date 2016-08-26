@@ -1,7 +1,34 @@
-name: ALPAC
-favicon: null
-layout_spectrum: 0.74895
 typography_spectrum: 0.25337
+color:
+  brandColors:
+    - '#ffffff'
+    - '#008dca'
+    - '#000000'
+    - '#474747'
+    - '#74c2e4'
+  brandStrength: 1
+  lightness: 0.875
+  saturation: 0.75
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74895
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ALPAC
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: ALPAC Verhaltenskodex
+    id: c676c83b-8ea6-4e05-8bed-9eeac1830a02
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -14,28 +41,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'ALPAC - Austrian Lobbying & Public Affairs Council'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#008dca'
-    - '#000000'
-    - '#474747'
-    - '#74c2e4'
-  brandStrength: 1
-  lightness: 0.875
-  saturation: 0.75
-  rhythmicContrast: 1
+title: ALPAC - Austrian Lobbying & Public Affairs Council
 purpose: []
