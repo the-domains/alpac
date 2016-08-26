@@ -1,22 +1,19 @@
 ---
-datePublished: '2016-08-26T09:07:09.637Z'
-sourcePath: >-
-  _posts/2016-04-17-verhaltenskodex-austrian-lobbying-and-public-affairs-council.md
+datePublished: '2016-08-26T09:55:22.112Z'
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
 author: []
 via: {}
-dateModified: '2016-08-26T09:07:03.256Z'
+dateModified: '2016-08-26T09:55:14.017Z'
 title: Verhaltenskodex Austrian Lobbying & Public Affairs Council
+id: c676c83b-8ea6-4e05-8bed-9eeac1830a02
 publisher: {}
 description: >-
   (Verhaltenskodex im Sinne des Lobbying- und
   Interessensvertretungs-Transparenz-Gesetz - LobbyG BGBl I 2012/64 § 7)
-inLanguage: null
-inNav: true
 starred: false
+sourcePath: >-
+  _posts/2016-04-17-verhaltenskodex-austrian-lobbying-and-public-affairs-council.md
 url: verhaltenskodex-austrian-lobbying-and-public-affairs-council/index.html
 _type: Article
 
