@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Verhaltenskodex
+  - name: Kodex
     id: c676c83b-8ea6-4e05-8bed-9eeac1830a02
     type: content
   - name: 'Qualitätskriterien '
