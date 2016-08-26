@@ -1,8 +1,8 @@
 ---
 id: 5cccc5a7-daa4-428c-9ac4-626fbffd1a41
-dateModified: '2016-08-26T06:53:38.925Z'
+dateModified: '2016-08-26T07:30:02.810Z'
 title: 'Compliance Management für Beratungsunternehmen '
-datePublished: '2016-08-26T06:53:39.711Z'
+datePublished: '2016-08-26T07:30:03.550Z'
 author: []
 hasPage: true
 description: >-
@@ -13,8 +13,8 @@ description: >-
   ihren Unternehmen umzusetzen.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-04-17-compliance-management-fur-beratungsunternehmen.md
+starred: false
 url: compliance-management-fur-beratungsunternehmen/index.html
 _type: Blurb
 
