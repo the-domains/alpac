@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T09:47:27.224Z'
+datePublished: '2016-08-26T11:02:44.246Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T09:47:26.381Z'
+dateModified: '2016-08-26T11:02:43.720Z'
 title: ALPAC - Qualitätskriterien
 id: c584ffe7-2bda-4396-b186-9cc1d5d01865
 publisher: {}
