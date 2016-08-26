@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T10:22:30.710Z'
+datePublished: '2016-08-26T10:29:21.721Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T10:22:27.468Z'
+dateModified: '2016-08-26T10:29:15.386Z'
 title: Verhaltenskodex Austrian Lobbying & Public Affairs Council
 id: c676c83b-8ea6-4e05-8bed-9eeac1830a02
 publisher: {}
