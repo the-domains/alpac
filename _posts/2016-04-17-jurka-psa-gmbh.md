@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-26T07:43:41.593Z'
+datePublished: '2016-08-26T07:43:44.739Z'
 isBasedOnUrl: ''
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-26T07:43:32.343Z'
+dateModified: '2016-08-26T07:43:44.177Z'
 title: Jurka P.S.A. GmbH
 id: f81c6511-20a0-4727-aaac-f21720248a24
 publisher: {}
