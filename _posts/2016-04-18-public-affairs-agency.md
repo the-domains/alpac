@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-26T06:59:16.131Z'
+datePublished: '2016-08-26T07:05:00.475Z'
+sourcePath: _posts/2016-04-18-public-affairs-agency.md
 inFeed: true
 isBasedOnUrl: ''
 hasPage: false
@@ -7,13 +8,12 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-26T06:59:15.494Z'
+dateModified: '2016-08-26T07:04:39.708Z'
 title: Public Affairs Agency
 id: a1b7d7e8-9962-45ea-b604-0a95ee046a22
 publisher: {}
 description: Mag. Imma Baumgartner
 starred: false
-sourcePath: _posts/2016-04-18-public-affairs-agency.md
 _type: Blurb
 
 ---
