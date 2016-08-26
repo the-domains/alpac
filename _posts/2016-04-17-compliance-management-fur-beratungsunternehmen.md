@@ -1,8 +1,8 @@
 ---
 id: 5cccc5a7-daa4-428c-9ac4-626fbffd1a41
-dateModified: '2016-08-26T07:30:02.810Z'
+dateModified: '2016-08-26T07:30:33.728Z'
 title: 'Compliance Management für Beratungsunternehmen '
-datePublished: '2016-08-26T07:30:03.550Z'
+datePublished: '2016-08-26T07:30:34.597Z'
 author: []
 hasPage: true
 description: >-
