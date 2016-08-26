@@ -1,43 +1,60 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'Kovar & Partners, Dorotheergasse 7, A-1010 Wien/Vienna '
-datePublished: '2016-05-08T11:20:58.796Z'
-dateModified: '2016-05-08T11:20:55.466Z'
-title: 'Kovar & Partners GmbH'
+datePublished: '2016-08-26T08:52:52.400Z'
 author: []
-sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+via: {}
+dateModified: '2016-08-26T08:52:51.541Z'
+title: Kovar & Partners GmbH
+id: 9cd20e21-8f82-42e5-b7f6-fbdd35ca206d
+publisher: {}
+description: 'Andreas Kovar, Walter Osztovics, Heimo Gradischnig '
 starred: false
-url: kovar-and-partners-gmbh/index.html
-_type: Article
+sourcePath: _posts/2016-04-17-kovar-and-partners-gmbh.md
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5ef4359-1916-492b-a9cb-e91b376f0f63.jpg)
+
 # Kovar & Partners GmbH
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2987f55b-57b5-4ad4-b051-65c3cd48bc57.jpg)
 
-_Kovar & Partners_, Dorotheergasse 7, A-1010 Wien/Vienna 
+Andreas Kovar, Walter Osztovics, Heimo Gradischnig 
 
-T: +43 1 5229220-0, F: +43 1 5229220-22 
+_**Wien/Vienna:**_
 
-office@publicaffairs.cc, www.publicaffairs.cc
+Kovar & Partners 
 
-_KovarHuss_, Unter den Linden 21, D-10117 Berlin
+Dorotheergasse 7
+
+A-1010 Wien/Vienna
+
+T: +43 1 5229220-0, F: +43 1 5229220-22
+
+office@publicaffairs.cc
+
+www.publicaffairs.cc
+
+_**Berlin:**_
+
+_KovarHuss_
+
+Unter den Linden 21, D-10117 Berlin
 
 T: +49 30 7677183-0
 
-_MUELLER Consulting & Partner_, Gemeindestraße 48, CH-8032 Zürich/Zurich
+_**Zürich/Zurich:**_
+
+_MUELLER Consulting & Partner_
+
+Gemeindestraße 48, CH-8032 Zürich/Zurich
 
 T: +41 44 5330400
 
-_eacon - European Affairs Consulting Group_, Avenue des Arts 39, B-1040 Brüssel/Brussels
+_**Brüssel/Brussels:**_
+
+_eacon - European Affairs Consulting Group_
+
+Avenue des Arts 39, B-1040 Brüssel/Brussels
 
 T: +32 2 5027771
