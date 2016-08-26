@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Österreichs führende Public Affairs Beratungsunternehmen
+  - name: Österreichs führende Public Affairs-Beratungsunternehmen
     id: b2e54a83-80cd-4368-884f-a0f1542f1100
     type: content
   - name: ALPAC - Verhaltenskodex
