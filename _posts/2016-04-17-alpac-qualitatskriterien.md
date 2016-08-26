@@ -1,25 +1,19 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung voraus.'
-datePublished: '2016-04-29T05:11:13.539Z'
-dateModified: '2016-04-29T05:10:55.546Z'
+id: c584ffe7-2bda-4396-b186-9cc1d5d01865
+dateModified: '2016-08-26T06:53:04.050Z'
 title: 'ALPAC - Qualitätskriterien '
+datePublished: '2016-08-26T06:53:04.932Z'
 author: []
-sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+description: >-
+  Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung
+  voraus.
+publisher: {}
+via: {}
 starred: true
+sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
 url: alpac-qualitatskriterien/index.html
-_type: Article
+_type: Blurb
 
 ---
 # ALPAC - Qualitätskriterien 
