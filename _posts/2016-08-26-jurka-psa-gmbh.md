@@ -1,17 +1,16 @@
 ---
-description: Prof. Dr. Karl Jurka
-dateModified: '2016-08-26T08:40:34.429Z'
-datePublished: '2016-08-26T08:40:34.968Z'
+id: 417ecdba-32be-4a2c-abd5-abe657851eda
+dateModified: '2016-08-26T11:09:01.202Z'
 title: Jurka P.S.A. GmbH
+datePublished: '2016-08-26T11:09:06.016Z'
 author: []
+inFeed: true
+description: Prof. Dr. Karl Jurka
 publisher: {}
 via: {}
 starred: false
 sourcePath: _posts/2016-08-26-jurka-psa-gmbh.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b789b69-dfd4-43d4-a44a-ea202dfaecbd.jpg)
