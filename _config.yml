@@ -25,9 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: >-
-      Österreichs führender Beratungsunternehmen für Lobbying, Public Affairs
-      und alle politikbezogenen Beratungsleistungen
+  - name: Österreichs führende Public Affairs Beratungsunternehmen
     id: b2e54a83-80cd-4368-884f-a0f1542f1100
     type: content
   - name: ALPAC - Verhaltenskodex
