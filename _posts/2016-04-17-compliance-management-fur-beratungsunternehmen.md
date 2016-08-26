@@ -1,11 +1,10 @@
 ---
-datePublished: '2016-08-26T09:04:55.399Z'
-sourcePath: _posts/2016-04-17-compliance-management-fur-beratungsunternehmen.md
-inFeed: true
+datePublished: '2016-08-26T09:48:01.686Z'
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T09:04:54.239Z'
+dateModified: '2016-08-26T09:47:50.980Z'
 title: Compliance Management für Beratungsunternehmen
 id: 5cccc5a7-daa4-428c-9ac4-626fbffd1a41
 publisher: {}
@@ -16,8 +15,9 @@ description: >-
   Mittelpunkt. Alle Mitglieder von ALPAC verpflichten sich diese Richtlinie in
   ihren Unternehmen umzusetzen.
 starred: false
+sourcePath: _posts/2016-04-17-compliance-management-fur-beratungsunternehmen.md
 url: compliance-management-fur-beratungsunternehmen/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Compliance Management für Beratungsunternehmen
