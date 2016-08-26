@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-26T10:22:05.244Z'
+datePublished: '2016-08-26T10:28:57.681Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T10:21:59.004Z'
+dateModified: '2016-08-26T10:28:54.162Z'
 title: Impressum
 id: 2a9a499f-41e1-4e4a-9305-10f9544ed394
 publisher: {}
