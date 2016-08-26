@@ -1,17 +1,16 @@
 ---
-description: 'Andreas Kovar, Walter Osztovics, Heimo Gradischnig'
-dateModified: '2016-08-26T08:54:54.414Z'
-datePublished: '2016-08-26T08:54:54.801Z'
+id: 4e6e88f9-8737-4b86-9711-3bd5bb11c08d
+dateModified: '2016-08-26T11:10:00.091Z'
 title: Kovar & Partners GmbH
+datePublished: '2016-08-26T11:10:07.366Z'
 author: []
+inFeed: true
+description: 'Andreas Kovar, Walter Osztovics, Heimo Gradischnig'
 publisher: {}
 via: {}
 starred: false
 sourcePath: _posts/2016-08-26-kovar-and-partners-gmbh.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5dc8d9fd-c648-4aa8-84be-1787b0fb59b1.jpg)
