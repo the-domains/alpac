@@ -25,6 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: >-
+      Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public
+      Affairs und alle politikbezogenen Beratungsleistungen
+    id: b2e54a83-80cd-4368-884f-a0f1542f1100
+    type: content
   - name: ALPAC - Verhaltenskodex
     id: c676c83b-8ea6-4e05-8bed-9eeac1830a02
     type: content
@@ -33,11 +38,6 @@ navigation:
     type: content
   - name: 'Compliance Management für Beratungsunternehmen '
     id: 5cccc5a7-daa4-428c-9ac4-626fbffd1a41
-    type: content
-  - name: >-
-      Die Liste Österreichs führender Beratungsunternehmen für Lobbying, Public
-      Affairs und alle politikbezogenen Beratungsleistungen
-    id: b2e54a83-80cd-4368-884f-a0f1542f1100
     type: content
 favicon: null
 collections:
