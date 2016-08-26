@@ -1,18 +1,16 @@
 ---
-datePublished: '2016-08-26T08:46:31.380Z'
-sourcePath: _posts/2016-04-18-heinz-lederer-communications-gmbh.md
-author: []
-via: {}
-dateModified: '2016-08-26T08:46:30.494Z'
-title: Heinz Lederer Communications GmbH
 id: 59053f28-c69b-49d7-85f6-132eb32bafe2
-publisher: {}
-description: Mag. Heinz Lederer
-starred: false
+dateModified: '2016-08-26T11:01:43.271Z'
+title: Heinz Lederer Communications GmbH
+datePublished: '2016-08-26T11:01:53.093Z'
+author: []
 inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+description: Mag. Heinz Lederer
+publisher: {}
+via: {}
+starred: false
+sourcePath: _posts/2016-04-18-heinz-lederer-communications-gmbh.md
+_type: Blurb
 
 ---
 # Heinz Lederer Communications GmbH
