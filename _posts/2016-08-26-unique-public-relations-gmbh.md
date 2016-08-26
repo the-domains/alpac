@@ -1,13 +1,13 @@
 ---
-description: Mag. Josef Kalina
-dateModified: '2016-08-26T08:44:19.386Z'
-datePublished: '2016-08-26T08:44:23.263Z'
-title: Unique Public Relations GmbH
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-26T08:44:26.162Z'
 sourcePath: _posts/2016-08-26-unique-public-relations-gmbh.md
+author: []
+via: {}
+dateModified: '2016-08-26T08:44:25.268Z'
+title: Unique Public Relations GmbH
+publisher: {}
+description: Mag. Josef Kalina
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
