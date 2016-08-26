@@ -1,25 +1,26 @@
 ---
-id: 5cccc5a7-daa4-428c-9ac4-626fbffd1a41
-dateModified: '2016-08-26T07:31:00.778Z'
-title: 'Compliance Management für Beratungsunternehmen '
-datePublished: '2016-08-26T07:31:01.815Z'
-author: []
+datePublished: '2016-08-26T09:04:55.399Z'
+sourcePath: _posts/2016-04-17-compliance-management-fur-beratungsunternehmen.md
+inFeed: true
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-26T09:04:54.239Z'
+title: Compliance Management für Beratungsunternehmen
+id: 5cccc5a7-daa4-428c-9ac4-626fbffd1a41
+publisher: {}
 description: >-
   Genau zu wissen, welche Gesetze für Public Affairs und Lobbying gelten sowie
   die eigenen Mitarbeiter in Sachen Compliance zu schulen stellt die Compliance
   Richtlinie des Austrian Lobbying & Public Affairs Council (ALPAC) in den
   Mittelpunkt. Alle Mitglieder von ALPAC verpflichten sich diese Richtlinie in
   ihren Unternehmen umzusetzen.
-publisher: {}
-via: {}
-sourcePath: _posts/2016-04-17-compliance-management-fur-beratungsunternehmen.md
 starred: false
 url: compliance-management-fur-beratungsunternehmen/index.html
-_type: Blurb
+_type: Article
 
 ---
-# Compliance Management für Beratungsunternehmen 
+# Compliance Management für Beratungsunternehmen
 
 Genau zu wissen, welche Gesetze für Public Affairs und Lobbying gelten sowie die eigenen Mitarbeiter in Sachen Compliance zu schulen stellt die [Compliance Richtlinie des Austrian Lobbying & Public Affairs Council (ALPAC)][0] in den Mittelpunkt. Alle Mitglieder von ALPAC verpflichten sich diese Richtlinie in ihren Unternehmen umzusetzen.
 
