@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T07:34:19.441Z'
+datePublished: '2016-08-26T07:35:07.527Z'
 sourcePath: _posts/2016-04-18-public-affairs-agency.md
 inFeed: true
 hasPage: true
@@ -7,11 +7,11 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-26T07:34:05.591Z'
+dateModified: '2016-08-26T07:35:06.759Z'
 title: Public Affairs Agency
 id: a1b7d7e8-9962-45ea-b604-0a95ee046a22
 publisher: {}
-description: 'Mag. Imma Baumgartner '
+description: 'Gumpendorferstraße 56, A-1060 Wien/Vienna'
 starred: false
 url: public-affairs-agency/index.html
 _type: Article
@@ -20,7 +20,7 @@ _type: Article
 # Public Affairs Agency
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/87f0552609200cc8f1a47dfb4628a308df3650af.jpg)
 
-Mag. Imma Baumgartner 
+### Mag. Imma Baumgartner
 
 Gumpendorferstraße 56, A-1060 Wien/Vienna
 
