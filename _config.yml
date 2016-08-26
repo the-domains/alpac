@@ -31,9 +31,6 @@ navigation:
   - name: 'ALPAC - Qualitätskriterien '
     id: c584ffe7-2bda-4396-b186-9cc1d5d01865
     type: content
-  - name: Impressum
-    id: 2a9a499f-41e1-4e4a-9305-10f9544ed394
-    type: content
 favicon: null
 collections:
   - index:
