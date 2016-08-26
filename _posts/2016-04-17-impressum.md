@@ -1,25 +1,24 @@
 ---
-datePublished: '2016-08-26T09:42:15.681Z'
-sourcePath: _posts/2016-04-17-impressum.md
-inFeed: true
-hasPage: true
-author: []
-via: {}
-dateModified: '2016-08-26T09:42:11.729Z'
-title: Impressum
 id: 2a9a499f-41e1-4e4a-9305-10f9544ed394
+dateModified: '2016-08-26T09:48:27.169Z'
+title: Impressum
+datePublished: '2016-08-26T09:48:43.310Z'
+author: []
+hasPage: true
+description: 'Andreas Kovar, Austrian Lobbying & Public Affairs Council – ALPAC'
 publisher: {}
-description: 'Andreas Kovar, Austrian Lobbying & Public Affairs Council – ALPAC '
+via: {}
 starred: false
+sourcePath: _posts/2016-04-17-impressum.md
 url: impressum/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Impressum
 
 ### _Kontakt:_
 
-Andreas Kovar, Austrian Lobbying & Public Affairs Council -- ALPAC 
+Andreas Kovar, Austrian Lobbying & Public Affairs Council -- ALPAC
 
 M: +43 (664) 8494011, T.: +43 (1) 5229220
 
