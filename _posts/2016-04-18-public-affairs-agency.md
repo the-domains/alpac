@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T07:48:41.544Z'
+datePublished: '2016-08-26T07:50:58.932Z'
 sourcePath: _posts/2016-04-18-public-affairs-agency.md
 inFeed: true
 hasPage: true
@@ -7,7 +7,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-26T07:48:40.646Z'
+dateModified: '2016-08-26T07:50:58.353Z'
 title: Public Affairs Agency
 id: a1b7d7e8-9962-45ea-b604-0a95ee046a22
 publisher: {}
