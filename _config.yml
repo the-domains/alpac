@@ -34,9 +34,6 @@ navigation:
   - name: 'Qualitätskriterien '
     id: c584ffe7-2bda-4396-b186-9cc1d5d01865
     type: content
-  - name: Compliance Management
-    id: 5cccc5a7-daa4-428c-9ac4-626fbffd1a41
-    type: content
 favicon: null
 collections:
   - index:
