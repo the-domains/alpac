@@ -1,20 +1,19 @@
 ---
-description: Mag. Imma Baumgartner
-dateModified: '2016-08-26T08:28:36.255Z'
-datePublished: '2016-08-26T08:28:42.223Z'
-title: Public Affairs Agency
+datePublished: '2016-08-26T11:06:15.130Z'
+inFeed: true
 author: []
-publisher: {}
 via: {}
+dateModified: '2016-08-26T11:06:11.554Z'
+title: Public Affairs Agency
+id: 1e28e097-8e8e-4da3-b085-7856ce5c58a3
+publisher: {}
+description: Mag. Imma Baumgartner
 starred: false
 sourcePath: _posts/2016-08-26-public-affairs-agency.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07b0618b-0835-4998-91c4-e4fb2bcbd661.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/adbe2111-f118-4406-bb18-12cc2d72a0b2.jpg)
 
 # Public Affairs Agency
 
