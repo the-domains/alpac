@@ -1,18 +1,16 @@
 ---
-datePublished: '2016-08-26T09:02:09.716Z'
-sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
+datePublished: '2016-08-26T09:47:27.224Z'
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-26T09:01:57.184Z'
+dateModified: '2016-08-26T09:47:26.381Z'
 title: ALPAC - Qualitätskriterien
 id: c584ffe7-2bda-4396-b186-9cc1d5d01865
 publisher: {}
-description: >-
-  Eine Mitgliedschaft bei ALPAC setzt einschlägige, mehrjährige Berufserfahrung
-  voraus.
+description: ''
 starred: true
+sourcePath: _posts/2016-04-17-alpac-qualitatskriterien.md
 url: alpac-qualitatskriterien/index.html
 _type: Article
 
