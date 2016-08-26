@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-26T07:39:03.842Z'
+datePublished: '2016-08-26T08:34:06.616Z'
+sourcePath: _posts/2016-04-17-avenue-des-arts-39.md
 isBasedOnUrl: ''
 author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-26T07:38:43.144Z'
+dateModified: '2016-08-26T08:34:05.621Z'
 title: eacon - European Affairs Consulting Group s.p.r.l.
 id: 8245afda-4c5f-400e-92ed-690d9d44586b
 publisher: {}
-description: 'Avenue des Arts 39, B - 1040 Brüssel/Brussels'
+description: Mag. Martin Säckl
 starred: false
-sourcePath: _posts/2016-04-17-avenue-des-arts-39.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -19,9 +19,8 @@ _type: MediaObject
 
 ---
 # eacon - European Affairs Consulting Group s.p.r.l.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8881e81477f37b01c4daa12b90f4f54bcc6ff202.jpg)
 
-### Mag. Martin Säckl
+Mag. Martin Säckl
 
 Avenue des Arts 39, B - 1040 Brüssel/Brussels
 
