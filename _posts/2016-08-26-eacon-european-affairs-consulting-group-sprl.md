@@ -1,7 +1,7 @@
 ---
 description: Mag. Martin Säckl
-dateModified: '2016-08-26T08:35:09.611Z'
-datePublished: '2016-08-26T08:35:27.709Z'
+dateModified: '2016-08-26T08:35:27.934Z'
+datePublished: '2016-08-26T08:39:07.470Z'
 title: eacon - European Affairs Consulting Group s.p.r.l.
 author: []
 publisher: {}
@@ -14,6 +14,8 @@ inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/811b9c33-5b86-43bc-82ec-5061df688fd1.jpg)
+
 # eacon - European Affairs Consulting Group s.p.r.l.
 
 Mag. Martin Säckl
