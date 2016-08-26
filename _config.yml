@@ -1,4 +1,3 @@
-layout_spectrum: 0.146973071154207
 typography_spectrum: 0.028804056346416473
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.146973071154207
 analytics:
   google: null
   facebook: null
@@ -48,5 +48,5 @@ collections:
       format: rss
       number: 10
 title: ALPAC
-description: Directory of Austrians Leading Public Affairs Consultancies
+description: Directory of Austrian Leading Public Affairs Consultancies
 purpose: []
